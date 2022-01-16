@@ -1,6 +1,6 @@
 # TeamSpeak 3 PHP Framework
 
-THIS IS A MIRROR OF git.lumaserv.com/jan/ts3phpframework USED IN https://packagist.org/packages/lumaserv/ts3-php-framework  
+THIS IS A MIRROR OF https://github.com/HerrSammyDE/ts3-php-framework/ USED IN https://packagist.org/packages/herrsammyde/ts3-php-framework  
 ALL RIGHTS BELONG TO THEIR RESPECTIVE OWNERS  
 
 Initially released in January 2010, the TS3 PHP Framework is a powerful, open source, object-oriented framework implemented in PHP 5 and licensed under the GNU General Public License. It’s based on simplicity and a rigorously tested agile codebase. Extend the functionality of your servers with scripts or create powerful web applications to manage all features of your TeamSpeak 3 Server instances.
